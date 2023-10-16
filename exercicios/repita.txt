@@ -1,0 +1,21 @@
+c <- 1
+repita
+escreva(c)
+c <- c + 1
+
+ate(c > 10)
+
+c <- 10
+repita
+escreva(c)
+c <- c - 1 
+
+ate(c > 1)
+
+
+fatorial de 5!
+5*4*3*2*1
+20*3*2*1
+60*2*1
+120*1
+120
